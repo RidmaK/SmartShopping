@@ -1,2 +1,2 @@
-# SmartShopping
+# laravel8ecommerce
 Ecommerce
